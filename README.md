@@ -2,6 +2,8 @@
 
 A web interface for users to manage their daily transactions. Users can add and delete their transactions and further review their spending history from previous periods.
 
+Live Demo can be view at https://expense-tracker-demo-c.herokuapp.com/
+
 ###### Key Features:
 
 - Interfaces to add/delete transactions
